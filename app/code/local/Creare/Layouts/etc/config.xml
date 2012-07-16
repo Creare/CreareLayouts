@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<config>
+    <global>
+        <page>
+            <layouts>
+                <build module="page" translate="label">
+                    <label>Build Your Own</label>
+                    <template>page/build_own.phtml</template>
+                    <layout_handle>creare_build</layout_handle>
+                </build>
+            </layouts>
+        </page>
+    </global>
+</config> 
